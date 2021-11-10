@@ -1,9 +1,10 @@
 <h1 align='center'>Software Engineer && Artist</h1>
 
 <p align=”center”>
-<a href=”https://www.linkedin.com/in/stanislaw-krzyzewski/”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a></p>
+  <a href=”https://www.linkedin.com/in/stanislaw-krzyzewski/”>
+    <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+  </a>
+</p>
 
 <!--
 **Stasiulek/Stasiulek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
