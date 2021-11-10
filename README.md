@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stasiulek&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/ alt='Top languages used' height="180">
 </p>
 
-<img src="https://stasiulek-now-playing.vercel.app/api/spotify" alt="Spotify Now Playing"/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=koksmis&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=koksmis&redirect=true)
 <!--
 **Stasiulek/Stasiulek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
