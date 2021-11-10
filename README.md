@@ -4,6 +4,10 @@
   <a href="https://www.linkedin.com/in/stanislaw-krzyzewski/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
   </a>
+  
+   <a href="hhttps://www.instagram.com/stash_studio/">
+    <img src="https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram&labelColor=white" alt="Instagram" />
+  </a>
 </p>
 
 <!--
