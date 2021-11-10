@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stasiulek&show_icons=true&count_private=true&theme=react"/ alt='GitHub statistics'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stasiulek&layout=compact&theme=react"/ alt='Top languages used'>
+  <img src="https://github-readme-stats.vercel.app/api?username=Stasiulek&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/ alt='GitHub statistics'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stasiulek&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/ alt='Top languages used'>
 </p>
 <!--
 **Stasiulek/Stasiulek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
