@@ -2,7 +2,7 @@
 
 <p align=”center”>
   <a href="https://www.linkedin.com/in/stanislaw-krzyzewski/">
-    <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" />
   </a>
 </p>
 
