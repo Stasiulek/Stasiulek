@@ -1,4 +1,4 @@
-### Software Engineer && Artist
+<h1 align='center'>Software Engineer && Artist</h1>
 
 <!--
 **Stasiulek/Stasiulek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
