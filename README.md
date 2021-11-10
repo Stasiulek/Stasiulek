@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Stasiulek&theme=dracula&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stasiulek&layout=compact&theme=dracula"/>
 
 <!--
 **Stasiulek/Stasiulek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
